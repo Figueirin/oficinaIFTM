@@ -1,6 +1,6 @@
 body{
     font-family: sans-serif;
-    background-color: #ff0000;
+    background-color: #00ff22;
     color: #fff;
     height: 100%;
     text-align: justify;
@@ -9,7 +9,7 @@ body{
 
 .game{
     padding: 32px;
-    background-color: #323232;
+    background-color: #e5ff00;
 }
 
 .game h1{
